@@ -1,13 +1,12 @@
-## Hi there 👋
-
+## Hi there, I'm Oladayo Jayeola,a microbiology graduate with passion for tech. 👋
+I am a prospective data analyst
 <!--
 **Jaye-wealth/Jaye-wealth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+## About me
+- 🔭 I’m currently working on some projects to enhance my proficiency
+- 🌱 I’m currently learning data analytics using tools such as microsoft excel, power BI, tableau SQL etc
+- 👯 I’m looking to collaborate with high profile tech individuals on the field to upgrade my knowledge of data analytics
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
