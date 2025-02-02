@@ -10,7 +10,8 @@ I am a prospective data analyst
 
 
 # How to connect with me
-- You can reach me on https://www.linkedin.com/in/oladayo-jayeola-9483a9287?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+You can reach me on [LINKEDIN](https://www.linkedin.com/in/oladayo-jayeola-9483a9287?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+My LinkedIn [address](https://www.linkedin.com/in/oladayo-jayeola-9483a9287?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 - 
 
 
